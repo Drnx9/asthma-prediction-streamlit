@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+.idea/
+
+# Model/artifacts
 *.h5
 *.pkl
-.idea/
